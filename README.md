@@ -11,7 +11,7 @@ I am currently doing an undergraduate degree in Artificial Intelligence and Data
 </p>
 - I can code in:
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,flask,c,html,css,tailwind,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,flask,c,html,css,tailwind,js,ts&perline=5)](https://skillicons.dev)
 
 - Leetcode statistics:
 
